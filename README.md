@@ -1,6 +1,5 @@
 # Timetable-Scheduling-using-Genetic-Algorithm
-Project Description:
-
+Project Description
 This project addresses the classical problem of timetable scheduling in a university environment. The aim is to create individual timetables for each semester, ensuring minimal clashes between sections, professors, and rooms. The objective is to assign time slots for each section in a particular room to be taught by a particular professor for a specific course.
 
 
