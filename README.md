@@ -4,6 +4,8 @@ This project addresses the classical problem of timetable scheduling in a univer
 Problem Constraints:
 Hard Constraints
 The following hard constraints are implemented in the project:
+
+
 1.Classes can only be scheduled in free classrooms.
 2.A classroom should be big enough to accommodate the section. There are two categories of classrooms: classroom (60) and large hall (120).
 3.A professor should not be assigned two different lectures at the same time.
