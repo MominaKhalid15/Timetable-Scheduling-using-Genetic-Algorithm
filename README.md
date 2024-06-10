@@ -5,7 +5,6 @@ This project addresses the classical problem of timetable scheduling in a univer
 
 Problem Constraints:
 
-Hard Constraints
 The following hard constraints are implemented in the project:
 
 1.Classes can only be scheduled in free classrooms.
